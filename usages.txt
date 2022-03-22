@@ -1,0 +1,7 @@
+ping archlinux.org
+
+curl -L archfi.sf.net/archfi > archfi
+
+sh archfi
+
+YouTube Video: https://youtu.be/u2l54FMgWq4
